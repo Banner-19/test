@@ -1,5 +1,0 @@
-{{#user}}
-Name: Bhaskar Banerjee
-Skills: HTML, CSS, JS,Python, Machine Learning, Data Science, Java
-Email: bhaskarbanerjee1903@gmail.com
-{{/user}}
